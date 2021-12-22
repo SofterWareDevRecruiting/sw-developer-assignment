@@ -13,9 +13,12 @@ In this git repository you will find a Visual Studio solution for an ASP.NET Cor
    * You must use cleanuri.com to generate the shortened URL.  This API is free to use.  Documentation can be found here https://cleanuri.com/docs.
    * The application might use a different URL shortening service in the future (eg. Decide to use bitly instead of cleanuri).  Keep this in mind while implementing your solution.
    * Add a button to the UI that will copy the shortened URL to the clipboard.
-2. When you are ready to submit your work to SofterWare be sure all changes are committed to your git repository and please do one of the following:
-   * Zip up your git repository, host it in cloud storage (eg. Google Drive), and share a public link with your recruiter or SofterWare.
-   * Push your code to your own private github repository and invite the contributor(s) of this repository to be collaborators on your private github repository.  DO NOT fork this repository as this would make your work visible to other prospective candidates.
+
+## Submitting Your Work
+
+When you are ready to submit your work to SofterWare be sure all changes are committed to your git repository and please do one of the following:
+
+- Push your code to your own private github repository and invite the contributor(s) of this repository to be collaborators on your private github repository. DO NOT fork this repository as this would make your work visible to other prospective candidates.
 
 ## Considerations
 Please keep things like reusability in mind when creating your project. Perhaps in the future we would want to use a different provider so how would you handle that. Use the latest best practices with ASP.NET core. Some day this could become an enterprise piece of software so what would you do for an enterprise application. This could be deployed to multiple environments like Dev, QA, and Prod so how would you help your DevOps group manage different configurations for different environments. Remember this is a way to show off your development skills and we want to see your best coding.
